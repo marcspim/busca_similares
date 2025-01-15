@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo3emh0MmZ6dDN1dm4ycWZ2OW43M3ltZG10cjVqbmtxYmwwM2hteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/42wQXwITfQbDGKqUP7/giphy.gif" alt="animated" height=20% width=20% />
 </p>
 
-Programa desenvolvido em Python para buscar por palavras similares no conteúdo total de arquivos .pdf.
+Programa desenvolvido em Python para buscar por palavras em arquivos .pdf e retornar a similaridade em seu conteúdo total.
 
 ## Tome notas 📝🤓:
 
